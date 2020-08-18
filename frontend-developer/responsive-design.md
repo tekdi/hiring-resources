@@ -3,7 +3,7 @@
 Create responsive HTML/CSS design for the below screens
 
 * Dashboard Page - [Design](dashboard.png)
-* Course page, this page has 3 tabs. There are 3 designs, each showing a different tab active - [Tab 1](course-tab1.png) [Tab 2](course-tab2.png) [Tab 2](course-tab2.png)
+* Course page, this page has 3 tabs. There are 3 designs, each showing a different tab active - [Tab 1](course-tab1.png) [Tab 2](course-tab2.png) [Tab 3](course-tab3.png)
 
 
 Notes
