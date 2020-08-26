@@ -1,7 +1,3 @@
-Tekdi - Sr. PHP Dev Assignment
-
-[[TOC]]
-
 # Project "Shopee"
 
 ## Summary
